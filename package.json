@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-webrtc",
+  "name": "@eclairab/nativescript-webrtc",
   "version": "1.0.0",
   "description": "Forked nativescript for NS 7/8",
   "main": "index.js",
