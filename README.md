@@ -179,6 +179,9 @@ webrtc.createAnswerForOfferReceived({
 });
 ```
 
+### Deploy by executing
+
+`npm publish --access=public --otp=<OTP_FROM_AUTHENTICATOR>`
 
 
 ### Using demo
